@@ -1,0 +1,8 @@
+framework: onion-evolve
+source_commit: bd769f168411
+source_commit_date: 2026-10-13
+role: standalone
+adopted_from: https://github.com/marciocar/onion-evolve.git
+adopted_at: 2026-10-13
+mode: greenfield
+integration_branch: main
